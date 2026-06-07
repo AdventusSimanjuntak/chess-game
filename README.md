@@ -24,7 +24,6 @@ Repository: [AdventusSimanjuntak/chess-game](https://github.com/AdventusSimanjun
 - [Arsitektur Singkat](#arsitektur-singkat)
 - [Testing Manual](#testing-manual)
 - [Batasan Saat Ini](#batasan-saat-ini)
-- [Roadmap](#roadmap)
 
 ## Fitur Utama
 
